@@ -191,6 +191,9 @@ header{
     cursor: pointer;
     transition: .5s;
 }
+.load button:hover{
+	background-color: #f0f0f0;
+}
 /*botton end*/
 
 /*footer start*/
@@ -215,7 +218,6 @@ li {
 }
 .logo_2 ul li a {
     color: #626262;
-    text-transform: uppercase;
     text-decoration: none;
     display: inline-block;
     padding: 0 10px;
@@ -232,7 +234,6 @@ li {
 }
 .menu_2 ul li a {
     color: #626262;
-    text-transform: uppercase;
     text-decoration: none;
     display: inline-block;
     padding: 0 10px;
